@@ -6,7 +6,7 @@ const bot = new Discord.Client();
  
 
 
-const token = 'NzIxODg3MDkwNDU0OTUzOTk0.XubHgQ._Xut5lDPOnaLdwULj4XVFCSn-HE'
+const token = 'NzIxODg3MDkwNDU0OTUzOTk0.XubUTQ.nOYnHCkc5O_rlw2DNBnvMSYiDkk'
 bot.login(token);
 bot.on('ready', () =>{
     console.log("bot on");
